@@ -1,0 +1,4 @@
+# Python Backend Dependencies for To-Do List Application
+# Pinned versions ensure reproducible, stable local installations
+Flask==3.1.0
+Werkzeug==3.1.3
